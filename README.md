@@ -1,2 +1,0 @@
-# rtu
-Hack thri
